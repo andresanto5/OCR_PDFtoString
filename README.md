@@ -45,4 +45,4 @@ pip install opencv-python-headless pillow pytesseract langdetect pdf2image numpy
 ```
 
 ## Contributing
-If you would like to contribute to this project, please check the contribution guidelines.
+If you would like to contribute to this project, please contact me.

@@ -42,5 +42,5 @@ numpy
 You can install these dependencies using pip:
 pip install opencv-python-headless pillow pytesseract langdetect pdf2image numpy
 
-Contributing
+## Contributing
 If you would like to contribute to this project, please check the contribution guidelines.
